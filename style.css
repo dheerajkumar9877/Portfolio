@@ -42,3 +42,14 @@
     background-color: #0056b3;
     color: #000000;
 }
+#profile-pic{
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 20px;
+}
+.header{
+    place-content: 20px;
+    gap: 790px;
+}
